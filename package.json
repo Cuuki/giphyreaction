@@ -1,5 +1,6 @@
 {
   "name": "giphyreaction",
+  "description": "Save GIFs and share them for a reaction/smiley that you assign.",
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/Cuuki/giphyreaction.git",
